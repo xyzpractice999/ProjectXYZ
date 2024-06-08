@@ -4,7 +4,7 @@ Thi sis sample code
 to test git repo
 
 Thi sis sample code 
-to test git repo67788
+to test git repo
 
 Thi sis sample code 
 to test git repo
